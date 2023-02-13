@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Permanent+Marker&family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    width: 100%;
+    background-color: rgb(162, 0, 255);
+}
+header .home{
+    width: 100%;
+}
+.navbar .logo img{
+    justify-content: flex-end;
+    padding: 10px;
+    width: 125px;
+    height: 100px;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    margin: -50px 20px;
+    margin-bottom: 10px;
+}
+.menu li{
+    list-style: none;
+    margin-right: 70px;    
+}
+.menu li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight:400;
+}
+.menu li a:hover{
+    color: #fff;
+    font-weight:600;
+}
+
+/* FIRST PAGE STYLES */
+
+.title{
+font-size: 50px;
+padding-left: 200px;
+margin-top: 500px;
+}
+
