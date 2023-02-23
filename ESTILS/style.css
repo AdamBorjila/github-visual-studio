@@ -11,7 +11,7 @@ body{
 }
 header{
     width: 100%;
-    background-color: rgb(162, 0, 255);
+    background-color: rgb(130, 226, 255);
 }
 header .home{
     width: 100%;
@@ -53,16 +53,16 @@ margin-top: 500px;
 
 /* CSHARP PAGE */
 
-.csharph1{
+.cplush1{
     text-align: center;
 }
-.csharptxt{
+.cplustxt{
     text-align: center;
     padding-left: 150px;
     padding-right: 150px;
     padding-top: 50px;
 }
-.csharpimg{
+.cplusimg{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,23 +71,23 @@ margin-top: 500px;
 
 /* PYTHON PAGE */
 
-.pythonh1{
+.javah1{
     text-align: center;
 }
-.pythontxt{
+.javatxt{
     text-align: center;
     padding-left: 150px;
     padding-right: 150px;
     padding-top: 50px;
 }
-.pythonimg{
+.javaimg{
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 50px;
 
 }
-.pythonimgscaling{
+.javaimgscaling{
     height: 200px;
     width: 200px;
 }
