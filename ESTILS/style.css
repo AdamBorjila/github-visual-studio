@@ -69,3 +69,25 @@ margin-top: 500px;
     padding-top: 50px;
 }
 
+/* PYTHON PAGE */
+
+.pythonh1{
+    text-align: center;
+}
+.pythontxt{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+.pythonimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+
+}
+.pythonimgscaling{
+    height: 200px;
+    width: 200px;
+}
