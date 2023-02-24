@@ -11,7 +11,7 @@ body{
 }
 header{
     width: 100%;
-    background-color: rgb(162, 0, 255);
+    background-color: rgb(130, 226, 255);
 }
 header .home{
     width: 100%;
@@ -51,3 +51,43 @@ padding-left: 200px;
 margin-top: 500px;
 }
 
+/* CSHARP PAGE */
+
+.cplush1{
+    text-align: center;
+}
+.cplustxt{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+.cplusimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+/* PYTHON PAGE */
+
+.javah1{
+    text-align: center;
+}
+.javatxt{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+.javaimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+
+}
+.javaimgscaling{
+    height: 200px;
+    width: 200px;
+}
